@@ -1,0 +1,11 @@
+# ignore all image files
+*.jpg
+*.png
+*.gif
+tflearn_imp.py
+
+# ignore something else
+
+# ignore subdirectories for practice + papers
+Colorful Image Colorization/
+Deep Learning Basics/
